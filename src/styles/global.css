@@ -1,1 +1,36 @@
+body {
+  margin: 0;
+  background: #020617;
+  color: white;
+  font-family: Arial;
+}
 
+.nav {
+  background: #020617;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav button {
+  margin-left: 10px;
+}
+
+.auth-box {
+  width: 300px;
+  margin: 120px auto;
+  padding: 25px;
+  background: #1e293b;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.auth-box input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+.casino {
+  padding: 40px;
+}
